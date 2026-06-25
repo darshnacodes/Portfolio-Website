@@ -192,11 +192,18 @@
   z-index: 9;
 }
 .landing-info h3 {
+
   font-size: 22px;
+
   letter-spacing: 2px;
+
   font-weight: 300;
+
   color: var(--accentColor);
+
   margin: 0;
+  margin-bottom: 20px;
+
 }
 .landing-info h2 {
   margin: 0;

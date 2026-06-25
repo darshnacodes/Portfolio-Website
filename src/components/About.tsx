@@ -6,9 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I am Darshna, a passionate WordPress Developer and AI Ads Creator. I specialize in building high-performing websites and cinematic advertisements that help brands stand out in the digital landscape
         </p>
       </div>
     </div>
